@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=C
+comment1.params=name\ age\ units\ residence
+comment1.target=C(java.lang.String,\ int,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=double\ calculateBill()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=int\ getUnits()
+comment5.params=
+comment5.target=java.lang.String\ getResidence()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=age
+comment7.target=void\ setAge(int)
+comment8.params=units
+comment8.target=void\ setUnits(int)
+comment9.params=residence
+comment9.target=void\ setResidence(java.lang.String)
+numComments=11
