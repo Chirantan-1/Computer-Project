@@ -10,7 +10,7 @@ public class M {
         boolean running = true;
 
         while (running) {
-            System.out.println("\nadd remove print change list sort search stats save exit");
+            System.out.println("\nadd remove print change list sort search stats");
             String cmd = s.nextLine().toLowerCase();
 
             try {
